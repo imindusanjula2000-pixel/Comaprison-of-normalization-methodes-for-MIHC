@@ -1,6 +1,0 @@
-Method,PeakSTD_Raw,PeakSTD_Norm,Wass_Raw,Wass_Norm,PeakSTD_Improvement,Wasserstein_Improvement
-Z-score,100,72,100,70,28.000000000000004,30.0
-MeanDiv,100,64,100,62,36.0,38.0
-ComBat,100,48,100,40,52.0,60.0
-MxNorm,100,58,100,55,42.0,45.0
-UniFORM,100,35,100,30,65.0,70.0
